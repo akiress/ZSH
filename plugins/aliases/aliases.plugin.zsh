@@ -7,3 +7,7 @@ alias dir='ls -lahrt'
 
 # xclip
 alias clip='xclip -selection c -i'
+
+# Ubuntu
+alias apt-get='sudo apt-get'
+alias apt-search='apt-cache search'
